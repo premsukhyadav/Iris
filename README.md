@@ -1,6 +1,7 @@
 # Your Project Name
 
 This project is containerized using Docker to ensure consistent and reproducible environments across different machines.
+link for docker image to pull : docker pull prem11121992/iris_api:latest 
 
 ---
 
