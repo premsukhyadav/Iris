@@ -1,0 +1,10 @@
+artifact_location: file:///D:/pythonProject/AIML_projects/Iris/src/mlruns/704455984269182235/models/m-149d3f5822a64b81b850413088197fc5/artifacts
+creation_timestamp: 1754734698527
+experiment_id: '704455984269182235'
+last_updated_timestamp: 1754734703709
+model_id: m-149d3f5822a64b81b850413088197fc5
+model_type: null
+name: RandomForest_2
+source_run_id: 4e77a1b4321843ed8523d35946f4abad
+status: 2
+status_message: null

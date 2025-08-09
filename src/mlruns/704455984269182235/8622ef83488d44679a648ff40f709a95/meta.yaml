@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/pythonProject/AIML_projects/Iris/src/mlruns/704455984269182235/8622ef83488d44679a648ff40f709a95/artifacts
+end_time: 1754734692685
+entry_point_name: ''
+experiment_id: '704455984269182235'
+lifecycle_stage: active
+run_id: 8622ef83488d44679a648ff40f709a95
+run_name: LogisticRegression_2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754734687513
+status: 3
+tags: []
+user_id: prems

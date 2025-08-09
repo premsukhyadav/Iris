@@ -1,0 +1,10 @@
+artifact_location: file:///D:/pythonProject/AIML_projects/Iris/src/mlruns/704455984269182235/models/m-e1c6cd2cbc07459384255f45897e5aa7/artifacts
+creation_timestamp: 1754734674729
+experiment_id: '704455984269182235'
+last_updated_timestamp: 1754734687478
+model_id: m-e1c6cd2cbc07459384255f45897e5aa7
+model_type: null
+name: LogisticRegression_1
+source_run_id: 96c59d3c3ae64e409e8675a64e2f2696
+status: 2
+status_message: null

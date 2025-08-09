@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/pythonProject/AIML_projects/Iris/src/mlruns/704455984269182235/edd4631b616a49c3be6f3ebc1836163c/artifacts
+end_time: 1754734698244
+entry_point_name: ''
+experiment_id: '704455984269182235'
+lifecycle_stage: active
+run_id: edd4631b616a49c3be6f3ebc1836163c
+run_name: RandomForest_1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754734692696
+status: 3
+tags: []
+user_id: prems
