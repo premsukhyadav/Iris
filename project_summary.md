@@ -53,8 +53,3 @@ The project covers data ingestion, preprocessing, model training, and evaluation
 
 ---
 
-## Using Docker Image
-
-- Docker image is hosted on Docker Hub.  
-- Pull using:  
-
