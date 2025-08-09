@@ -1,7 +1,10 @@
 # Your Project Name
 
 This project is containerized using Docker to ensure consistent and reproducible environments across different machines.
-[My Docker Hub Repository](https://hub.docker.com/r/prem11121992/iris_api)
+[My Docker Hub Repository](https://hub.docker.com/r/prem11121992/iris_api\tags)
+```bash
+docker pull prem11121992/iris_api:latest
+```
 
 ---
 
