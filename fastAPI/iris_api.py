@@ -4,7 +4,6 @@ from fastapi.templating import Jinja2Templates
 import uvicorn
 import pickle
 import numpy as np
-import os
 
 # Class labels mapping
 CLASS_NAMES = {
